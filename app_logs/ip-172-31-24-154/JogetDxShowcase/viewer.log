@@ -1,0 +1,15 @@
+INFO    06 May 2024 08:30:39 PackageEventLogger - UTCTime=1714984239598,EventType=packageLoaded,PackageId=JogetDxShowcase,PackageVersion=1,EventPerformedBy=roleSystem
+INFO    06 May 2024 08:30:39 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    06 May 2024 08:30:39 org.joget.apps.app.service.AppServiceImpl - Imported process form mappings : 4
+INFO    06 May 2024 08:30:40 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 9
+INFO    06 May 2024 08:30:40 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 5
+INFO    06 May 2024 08:30:40 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 3
+INFO    06 May 2024 08:30:40 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    06 May 2024 08:30:41 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_meeting_data : 11
+INFO    06 May 2024 08:30:41 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_stock : 20
+INFO    06 May 2024 08:30:42 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_chart_data : 7
+INFO    06 May 2024 08:30:42 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_meeting_data : 11
+INFO    06 May 2024 08:30:42 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_stock : 20
+INFO    06 May 2024 08:30:42 org.joget.apps.app.service.AppServiceImpl - Imported form datas - j_chart_data : 7
+INFO    06 May 2024 08:30:42 org.joget.apps.app.web.SetupServlet - Profile init complete: jwdb
+INFO    06 May 2024 08:30:42 org.joget.apps.app.web.SetupServlet - ===== Database Setup Complete =====

@@ -1,0 +1,8 @@
+INFO    10 May 2024 02:32:42 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    10 May 2024 02:32:42 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    10 May 2024 02:32:42 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_address : 2
+INFO    10 May 2024 02:32:43 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_climate : 2
+INFO    10 May 2024 02:32:43 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_continent : 6
+INFO    10 May 2024 02:32:44 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_country : 6
+INFO    10 May 2024 02:32:44 org.joget.apps.app.service.AppServiceImpl - Imported form datas - spreadsheet : 1
+INFO    10 May 2024 02:32:44 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Add form address. _Add form climate. _Add form continent. _Add form country. _Add form spreadsheet. _Add list list_address. _Add list list_climate. _Add list list_continent. _Add list list_country. _Add list list_spreadsheet. _Add userview v. _Update app config spreadsheet_Cascading_Dropdown_List. _Update app definition spreadsheet_Cascading_Dropdown_List. _

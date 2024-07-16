@@ -1,0 +1,8 @@
+INFO    06 May 2024 08:30:23 PackageEventLogger - UTCTime=1714984223308,EventType=packageLoaded,PackageId=dashboard,PackageVersion=1,EventPerformedBy=roleSystem
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported process form mappings : 3
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 3
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 3
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 3
+INFO    06 May 2024 08:30:23 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    06 May 2024 08:30:24 org.joget.apps.app.web.SetupServlet - Import app /setup/apps/APP_expenseclaim-1.zip

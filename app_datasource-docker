@@ -1,0 +1,4 @@
+workflowDriver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+workflowUrl=jdbc\:sqlserver\://${DB_HOST}\:${DB_PORT};SelectMethod\=direct;DatabaseName\=${DB_NAME}
+workflowPassword=${DB_PASSWORD}
+workflowUser=${DB_USER}

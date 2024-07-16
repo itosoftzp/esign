@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class entity-name="app_fd_ds_doc_signatures" lazy="false" name="org.joget.apps.form.model.FormRow" table="app_fd_ds_doc_signatures">
+        <id name="id" type="string"/>
+        <property index="idx_datecreated" name="dateCreated" type="timestamp"/>
+        <property name="dateModified" type="timestamp"/>
+        <property index="idx_createdby" name="createdBy" type="string"/>
+        <property name="createdByName" type="string"/>
+        <property name="modifiedBy" type="string"/>
+        <property name="modifiedByName" type="string"/>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_signature_count" name="signature_count" not-null="false" type="text"/><property column="c_annotation_image" name="annotation_image" not-null="false" type="text"/><property column="c_approval" name="approval" not-null="false" type="text"/><property column="c_description" name="description" not-null="false" type="text"/><property column="c_doc_id" name="doc_id" not-null="false" type="text"/><property column="c_signature_type" name="signature_type" not-null="false" type="text"/><property column="c_annotation_data" name="annotation_data" not-null="false" type="text"/><property column="c_name" name="name" not-null="false" type="text"/><property column="c_original_image" name="original_image" not-null="false" type="text"/><property column="c_type_request" name="type_request" not-null="false" type="text"/><property column="c_request_id" name="request_id" not-null="false" type="text"/><property column="c_email" name="email" not-null="false" type="text"/></dynamic-component>
+    </class>
+</hibernate-mapping>

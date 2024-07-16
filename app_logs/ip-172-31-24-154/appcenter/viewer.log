@@ -1,0 +1,68 @@
+INFO    06 May 2024 08:30:53 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    06 May 2024 08:30:53 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    06 May 2024 08:30:53 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by roleAnonymous: Add list applist. _Add list list_appList. _Add list list_newTemplate. _Add userview home. _Add internal INTERNAL_TAGGING. _Add INTERNAL_USERVIEW_PAGE up-0497CD0F62BD44DEEAF1294D58166A1A. _Add INTERNAL_USERVIEW_PAGE up-4E2A517C3275429806518BAA8D29AB1F. _Add INTERNAL_USERVIEW_PAGE up-8C70B71371B942B6D48A7E9B4C1DB8D1. _Add INTERNAL_USERVIEW_PAGE up-95447DD6260B48B2E00C1354A179CD44. _Update app config appcenter. _Update app definition appcenter. _
+INFO    06 May 2024 08:30:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 May 2024 08:39:43 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 May 2024 08:47:49 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 May 2024 03:17:12 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 May 2024 03:15:19 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 May 2024 07:58:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (140.213.5.23) : true
+INFO    13 May 2024 01:23:01 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    15 May 2024 03:59:55 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    16 May 2024 01:40:12 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    21 May 2024 01:52:26 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    22 May 2024 01:03:33 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    22 May 2024 02:07:52 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (140.213.5.25) : true
+INFO    24 May 2024 01:04:53 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    27 May 2024 02:47:30 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    28 May 2024 02:42:43 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    29 May 2024 01:19:16 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    30 May 2024 01:05:12 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    31 May 2024 05:50:07 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.61) : true
+INFO    04 Jun 2024 02:00:55 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 Jun 2024 02:24:40 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 Jun 2024 01:03:43 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Jun 2024 01:34:13 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    13 Jun 2024 08:35:45 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    14 Jun 2024 08:23:07 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    14 Jun 2024 14:04:46 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user 000001 (182.253.194.58) : false
+INFO    19 Jun 2024 10:17:31 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Jun 2024 10:17:31 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    20 Jun 2024 08:05:06 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    24 Jun 2024 10:16:36 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    25 Jun 2024 11:49:48 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.48) : true
+INFO    26 Jun 2024 10:15:13 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.48) : true
+INFO    26 Jun 2024 10:29:05 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.48) : true
+INFO    27 Jun 2024 10:04:45 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    28 Jun 2024 08:10:32 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Jul 2024 08:54:06 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Jul 2024 14:25:14 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    04 Jul 2024 09:03:18 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    04 Jul 2024 17:27:32 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    04 Jul 2024 18:25:51 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    05 Jul 2024 09:49:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    05 Jul 2024 12:47:09 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    08 Jul 2024 09:16:41 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 Jul 2024 10:25:50 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    09 Jul 2024 08:52:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Jul 2024 11:23:36 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (140.213.13.85) : true
+INFO    10 Jul 2024 14:27:24 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    11 Jul 2024 09:20:25 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    11 Jul 2024 14:23:47 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    11 Jul 2024 14:57:07 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Jul 2024 00:07:56 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Jul 2024 08:03:03 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Jul 2024 10:11:30 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Jul 2024 13:09:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    12 Jul 2024 21:56:12 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    15 Jul 2024 09:36:34 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    15 Jul 2024 09:57:23 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : false
+INFO    15 Jul 2024 09:58:56 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : false
+INFO    15 Jul 2024 09:59:49 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    15 Jul 2024 09:59:53 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    15 Jul 2024 10:08:57 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user coedotz (182.253.194.51) : false
+INFO    15 Jul 2024 10:08:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    15 Jul 2024 10:10:11 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user coedotz (182.253.194.51) : false
+INFO    15 Jul 2024 10:52:12 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user coedotz (182.253.194.51) : false
+INFO    15 Jul 2024 10:52:15 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
+INFO    16 Jul 2024 09:37:27 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.

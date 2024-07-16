@@ -1,0 +1,24 @@
+INFO    20 May 2024 09:51:05 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    20 May 2024 09:51:05 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    20 May 2024 09:51:06 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_contract : 2
+INFO    20 May 2024 09:51:06 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_contract_trail : 4
+INFO    20 May 2024 09:51:07 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Add form contract. _Add form trail. _Add list list_contract. _Add list list_trail. _Add userview v. _Add INTERNAL_USERVIEW_PAGE up-10a11618-5540-485b-9f4b-fcd4c8cf9783. _Update app config DataTrailDemo. _Update app definition DataTrailDemo. _
+INFO    21 May 2024 02:11:26 org.joget.apps.app.service.AppServiceImpl - Importing app DataTrailDemo ...
+INFO    21 May 2024 02:11:29 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Initial commit for DataTrailDemo_2
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported form definitions : 2
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported datalist definitions : 2
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported userview definitions : 1
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported addon builder definitions : 1
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 0
+INFO    21 May 2024 02:11:33 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    21 May 2024 02:11:34 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_contract : 2
+INFO    21 May 2024 02:11:34 org.joget.apps.app.service.AppServiceImpl - Imported form datas - demo_contract_trail : 4
+INFO    21 May 2024 02:11:35 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Add form contract. _Add form trail. _Add list list_contract. _Add list list_trail. _Add userview v. _Add INTERNAL_USERVIEW_PAGE up-10a11618-5540-485b-9f4b-fcd4c8cf9783. _Update app config DataTrailDemo. _Update app definition DataTrailDemo. _
+INFO    21 May 2024 02:15:36 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Update app definition DataTrailDemo. _Update app config DataTrailDemo. _
+INFO    21 May 2024 02:27:45 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}
+INFO    21 May 2024 03:08:44 id.co.itasoft.esign.PDFFileDownloadCustom - getProperties
+INFO    21 May 2024 03:08:44 id.co.itasoft.esign.PDFFileDownloadCustom - getProperties
+INFO    21 May 2024 03:09:59 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Update list list_trail. _
+INFO    21 May 2024 03:12:40 org.joget.apps.app.service.AppDevUtil - Commit to Git repo by admin: Update list list_trail. _
+INFO    21 May 2024 03:25:00 id.co.itasoft.esign.PDFFileDownloadCustom - getProperties
+INFO    22 May 2024 09:31:14 id.co.itasoft.esign.PDFFileDownloadCustom - getProperties
