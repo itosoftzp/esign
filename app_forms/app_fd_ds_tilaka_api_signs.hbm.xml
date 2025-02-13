@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class entity-name="app_fd_ds_tilaka_api_signs" lazy="false" name="org.joget.apps.form.model.FormRow" table="app_fd_ds_tilaka_api_signs">
+        <id name="id" type="string"/>
+        <property index="idx_datecreated" name="dateCreated" type="timestamp"/>
+        <property name="dateModified" type="timestamp"/>
+        <property index="idx_createdby" name="createdBy" type="string"/>
+        <property name="createdByName" type="string"/>
+        <property name="modifiedBy" type="string"/>
+        <property name="modifiedByName" type="string"/>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_annotateData" name="annotateData" not-null="false" type="text"/><property column="c_status_sequence" name="status_sequence" not-null="false" type="text"/><property column="c_tilaka_request_id" name="tilaka_request_id" not-null="false" type="text"/><property column="c_selectedSignature" name="selectedSignature" not-null="false" type="text"/><property column="c_tilaka_id" name="tilaka_id" not-null="false" type="text"/><property column="c_sequence" name="sequence" not-null="false" type="text"/><property column="c_status_num_signatures" name="status_num_signatures" not-null="false" type="text"/><property column="c_annotation_data" name="annotation_data" not-null="false" type="text"/><property column="c_filedoc" name="filedoc" not-null="false" type="text"/><property column="c_name" name="name" not-null="false" type="text"/><property column="c_unselectedSignature" name="unselectedSignature" not-null="false" type="text"/><property column="c_auth_url" name="auth_url" not-null="false" type="text"/><property column="c_status_num_signatures_done" name="status_num_signatures_done" not-null="false" type="text"/><property column="c_status" name="status" not-null="false" type="text"/></dynamic-component>
+    </class>
+</hibernate-mapping>

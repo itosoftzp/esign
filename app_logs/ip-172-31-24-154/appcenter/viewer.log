@@ -66,3 +66,622 @@ INFO    15 Jul 2024 10:10:11 org.joget.apps.workflow.security.WorkflowAuthentica
 INFO    15 Jul 2024 10:52:12 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user coedotz (182.253.194.51) : false
 INFO    15 Jul 2024 10:52:15 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.51) : true
 INFO    16 Jul 2024 09:37:27 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    18 Jul 2024 18:28:06 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    18 Jul 2024 18:28:25 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
+INFO    19 Jul 2024 09:45:56 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    22 Jul 2024 10:14:25 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    22 Jul 2024 10:54:55 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.57) : true
+INFO    22 Jul 2024 13:24:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (140.213.2.150) : true
+INFO    23 Jul 2024 09:40:35 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    24 Jul 2024 10:18:31 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    24 Jul 2024 12:06:13 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.57) : true
+INFO    24 Jul 2024 17:01:48 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.57) : true
+INFO    25 Jul 2024 15:36:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (112.215.238.215) : false
+INFO    29 Jul 2024 10:08:29 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.53) : true
+INFO    29 Jul 2024 13:50:59 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.214.54.6) : true
+INFO    30 Jul 2024 09:57:47 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    01 Aug 2024 09:13:59 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    02 Aug 2024 09:39:07 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (114.124.140.151) : true
+INFO    05 Aug 2024 09:15:12 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    05 Aug 2024 09:16:22 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user julia (182.2.143.124) : true
+INFO    05 Aug 2024 09:59:03 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.61) : true
+INFO    06 Aug 2024 10:04:04 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 Aug 2024 11:26:52 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.61) : false
+INFO    07 Aug 2024 12:00:55 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.61) : true
+INFO    07 Aug 2024 16:18:12 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.61) : true
+INFO    08 Aug 2024 10:32:39 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    09 Aug 2024 09:12:06 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Aug 2024 11:49:07 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    14 Aug 2024 15:48:01 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    16 Aug 2024 10:39:13 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    16 Aug 2024 18:49:28 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Aug 2024 10:11:27 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Aug 2024 13:04:33 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user 000001 (103.18.34.248) : false
+INFO    19 Aug 2024 13:06:56 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.18.34.248) : false
+INFO    19 Aug 2024 15:17:24 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Aug 2024 15:20:01 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.18.34.248) : false
+INFO    19 Aug 2024 15:51:18 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Aug 2024 15:53:42 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.109.203.166) : true
+INFO    20 Aug 2024 10:48:49 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    26 Aug 2024 11:03:22 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    27 Aug 2024 09:37:36 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    28 Aug 2024 09:39:00 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    29 Aug 2024 09:26:07 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    29 Aug 2024 14:54:54 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.60) : true
+INFO    02 Sep 2024 09:11:28 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 Sep 2024 13:08:31 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.59) : true
+INFO    09 Sep 2024 09:02:33 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Sep 2024 09:26:34 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    20 Sep 2024 10:34:20 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    20 Sep 2024 16:25:06 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (180.244.135.251) : true
+INFO    20 Sep 2024 16:57:17 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.48) : true
+INFO    23 Sep 2024 13:03:30 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.49) : true
+INFO    25 Sep 2024 12:46:45 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.49) : true
+INFO    25 Sep 2024 12:46:47 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    26 Sep 2024 09:31:28 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    30 Sep 2024 11:10:57 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (36.80.98.108) : false
+INFO    30 Sep 2024 11:11:07 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    01 Oct 2024 10:06:27 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Oct 2024 10:33:47 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Oct 2024 17:33:50 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.48) : true
+INFO    04 Oct 2024 10:16:35 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 Oct 2024 09:50:03 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 Oct 2024 10:33:59 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 Oct 2024 13:46:57 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.48) : true
+INFO    10 Oct 2024 10:43:31 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Oct 2024 13:02:24 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.48) : true
+INFO    10 Oct 2024 17:53:33 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user etta (182.253.194.48) : true
+INFO    14 Oct 2024 10:08:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    15 Oct 2024 15:56:40 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.53) : true
+INFO    16 Oct 2024 18:58:19 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    17 Oct 2024 11:29:19 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    23 Oct 2024 09:31:41 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    25 Oct 2024 11:13:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    29 Oct 2024 10:59:52 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    31 Oct 2024 16:04:20 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (36.71.243.134) : true
+INFO    01 Nov 2024 09:34:09 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    04 Nov 2024 12:53:05 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    04 Nov 2024 14:51:49 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.62) : false
+INFO    07 Nov 2024 11:33:45 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user coedotz (182.253.194.52) : false
+INFO    07 Nov 2024 11:33:52 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.52) : false
+INFO    07 Nov 2024 11:34:04 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.52) : true
+INFO    08 Nov 2024 11:23:27 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    11 Nov 2024 09:04:20 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    12 Nov 2024 10:06:16 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    14 Nov 2024 13:35:29 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.52) : true
+INFO    18 Nov 2024 10:26:49 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Nov 2024 09:07:44 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Nov 2024 11:13:41 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    19 Nov 2024 11:13:41 org.joget.apps.workflow.security.WorkflowHttpAuthProcessingFilter - Authentication for user admin (182.253.194.50) : false
+INFO    19 Nov 2024 15:48:40 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.109.203.166) : true
+ERROR   21 Nov 2024 14:59:14 org.joget.commons.spring.web.CustomDelegatingFilterProxy - An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]__8: %>_9: _10: <c:if test="${!empty processer}">_11:     <c:set var="html" value="${processer.html}"/>_12:     _13:     <c:if test="${!empty processer.redirectUrl}">_14:         <c:redirect url="${processer.redirectUrl}"/>___Stacktrace:
+org.apache.jasper.JasperException: An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]
+
+8: %>
+9: 
+10: <c:if test="${!empty processer}">
+11:     <c:set var="html" value="${processer.html}"/>
+12:     
+13:     <c:if test="${!empty processer.redirectUrl}">
+14:         <c:redirect url="${processer.redirectUrl}"/>
+
+
+Stacktrace:
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:610) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:499) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:661) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:425) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:357) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:294) ~[catalina.jar:9.0.86]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1406) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1150) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[servlet-api.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.GitRequestFilter.doFilter(GitRequestFilter.java:42) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.displaytag.filter.ResponseOverrideFilter.doFilter(ResponseOverrideFilter.java:125) ~[displaytag-patched-1.2.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.owasp.csrfguard.CsrfGuardFilter.handleSession(CsrfGuardFilter.java:107) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:97) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:68) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.multipart.support.MultipartFilter.doFilterInternal(MultipartFilter.java:125) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.commons.spring.web.CustomDelegatingFilterProxy.doFilter(CustomDelegatingFilterProxy.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.joget.apps.app.web.ExpireFilter.doFilter(ExpireFilter.java:48) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.31.jar:5.3.31]
+	at org.joget.apps.app.web.CustomCharacterEncodingFilter.doFilterInternal(CustomCharacterEncodingFilter.java:50) [classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) [spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.86]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.86]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.86]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) [catalina.jar:9.0.86]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-util.jar:9.0.86]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: org.apache.jasper.el.JspELException: /WEB-INF/jsp/ubuilder/v5view.jsp(11,4) '${processer.html}' Error reading [html] on type [org.joget.apps.userview.service.UserviewThemeProcesser]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:141) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+Caused by: java.lang.NullPointerException
+	at org.joget.apps.app.service.MobileUtil.isIE(MobileUtil.java:101) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody20(AjaxUniversalTheme.java:204) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody21$advice(AjaxUniversalTheme.java:102) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib(AjaxUniversalTheme.java:1) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getJsCssLib(UserviewThemeProcesser.java:573) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getHtml(UserviewThemeProcesser.java:223) ~[classes/:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor400.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:95) ~[el-api.jar:3.0.FR]
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125) ~[jasper.jar:9.0.86]
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:168) ~[jasper-el.jar:9.0.86]
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189) ~[jasper-el.jar:9.0.86]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:129) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+ERROR   21 Nov 2024 14:59:14 org.apache.jsp.WEB_002dINF.jsp.error500_jsp - An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]__8: %>_9: _10: <c:if test="${!empty processer}">_11:     <c:set var="html" value="${processer.html}"/>_12:     _13:     <c:if test="${!empty processer.redirectUrl}">_14:         <c:redirect url="${processer.redirectUrl}"/>___Stacktrace:
+org.apache.jasper.JasperException: An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]
+
+8: %>
+9: 
+10: <c:if test="${!empty processer}">
+11:     <c:set var="html" value="${processer.html}"/>
+12:     
+13:     <c:if test="${!empty processer.redirectUrl}">
+14:         <c:redirect url="${processer.redirectUrl}"/>
+
+
+Stacktrace:
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:610) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:499) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:661) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:425) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:357) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:294) ~[catalina.jar:9.0.86]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1406) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1150) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[servlet-api.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.GitRequestFilter.doFilter(GitRequestFilter.java:42) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.displaytag.filter.ResponseOverrideFilter.doFilter(ResponseOverrideFilter.java:125) ~[displaytag-patched-1.2.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.owasp.csrfguard.CsrfGuardFilter.handleSession(CsrfGuardFilter.java:107) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:97) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:68) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.multipart.support.MultipartFilter.doFilterInternal(MultipartFilter.java:125) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.commons.spring.web.CustomDelegatingFilterProxy.doFilter(CustomDelegatingFilterProxy.java:31) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.ExpireFilter.doFilter(ExpireFilter.java:48) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.apps.app.web.CustomCharacterEncodingFilter.doFilterInternal(CustomCharacterEncodingFilter.java:50) ~[classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.86]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.86]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) [catalina.jar:9.0.86]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-util.jar:9.0.86]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: org.apache.jasper.el.JspELException: /WEB-INF/jsp/ubuilder/v5view.jsp(11,4) '${processer.html}' Error reading [html] on type [org.joget.apps.userview.service.UserviewThemeProcesser]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:141) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+Caused by: java.lang.NullPointerException
+	at org.joget.apps.app.service.MobileUtil.isIE(MobileUtil.java:101) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody20(AjaxUniversalTheme.java:204) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody21$advice(AjaxUniversalTheme.java:102) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib(AjaxUniversalTheme.java:1) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getJsCssLib(UserviewThemeProcesser.java:573) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getHtml(UserviewThemeProcesser.java:223) ~[classes/:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor400.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:95) ~[el-api.jar:3.0.FR]
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125) ~[jasper.jar:9.0.86]
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:168) ~[jasper-el.jar:9.0.86]
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189) ~[jasper-el.jar:9.0.86]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:129) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+ERROR   21 Nov 2024 16:18:21 org.joget.commons.spring.web.CustomDelegatingFilterProxy - An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]__8: %>_9: _10: <c:if test="${!empty processer}">_11:     <c:set var="html" value="${processer.html}"/>_12:     _13:     <c:if test="${!empty processer.redirectUrl}">_14:         <c:redirect url="${processer.redirectUrl}"/>___Stacktrace:
+org.apache.jasper.JasperException: An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]
+
+8: %>
+9: 
+10: <c:if test="${!empty processer}">
+11:     <c:set var="html" value="${processer.html}"/>
+12:     
+13:     <c:if test="${!empty processer.redirectUrl}">
+14:         <c:redirect url="${processer.redirectUrl}"/>
+
+
+Stacktrace:
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:610) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:499) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:661) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:425) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:357) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:294) ~[catalina.jar:9.0.86]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1406) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1150) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[servlet-api.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.GitRequestFilter.doFilter(GitRequestFilter.java:42) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.displaytag.filter.ResponseOverrideFilter.doFilter(ResponseOverrideFilter.java:125) ~[displaytag-patched-1.2.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.owasp.csrfguard.CsrfGuardFilter.handleSession(CsrfGuardFilter.java:107) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:97) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:68) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.multipart.support.MultipartFilter.doFilterInternal(MultipartFilter.java:125) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.commons.spring.web.CustomDelegatingFilterProxy.doFilter(CustomDelegatingFilterProxy.java:31) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.joget.apps.app.web.ExpireFilter.doFilter(ExpireFilter.java:48) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) [spring-web-5.3.31.jar:5.3.31]
+	at org.joget.apps.app.web.CustomCharacterEncodingFilter.doFilterInternal(CustomCharacterEncodingFilter.java:50) [classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) [spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) [catalina.jar:9.0.86]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.86]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.86]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) [catalina.jar:9.0.86]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-util.jar:9.0.86]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: org.apache.jasper.el.JspELException: /WEB-INF/jsp/ubuilder/v5view.jsp(11,4) '${processer.html}' Error reading [html] on type [org.joget.apps.userview.service.UserviewThemeProcesser]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:141) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+Caused by: java.lang.NullPointerException
+	at org.joget.apps.app.service.MobileUtil.isIE(MobileUtil.java:101) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody20(AjaxUniversalTheme.java:204) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody21$advice(AjaxUniversalTheme.java:102) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib(AjaxUniversalTheme.java:1) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getJsCssLib(UserviewThemeProcesser.java:573) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getHtml(UserviewThemeProcesser.java:223) ~[classes/:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor400.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:95) ~[el-api.jar:3.0.FR]
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125) ~[jasper.jar:9.0.86]
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:168) ~[jasper-el.jar:9.0.86]
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189) ~[jasper-el.jar:9.0.86]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:129) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+ERROR   21 Nov 2024 16:18:21 org.apache.jsp.WEB_002dINF.jsp.error500_jsp - An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]__8: %>_9: _10: <c:if test="${!empty processer}">_11:     <c:set var="html" value="${processer.html}"/>_12:     _13:     <c:if test="${!empty processer.redirectUrl}">_14:         <c:redirect url="${processer.redirectUrl}"/>___Stacktrace:
+org.apache.jasper.JasperException: An exception occurred processing [WEB-INF/jsp/ubuilder/v5view.jsp] at line [11]
+
+8: %>
+9: 
+10: <c:if test="${!empty processer}">
+11:     <c:set var="html" value="${processer.html}"/>
+12:     
+13:     <c:if test="${!empty processer.redirectUrl}">
+14:         <c:redirect url="${processer.redirectUrl}"/>
+
+
+Stacktrace:
+	at org.apache.jasper.servlet.JspServletWrapper.handleJspException(JspServletWrapper.java:610) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:499) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:379) ~[jasper.jar:9.0.86]
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:327) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:661) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:425) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:357) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:294) ~[catalina.jar:9.0.86]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1406) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1150) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529) ~[servlet-api.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.31.jar:5.3.31]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-websocket.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.GitRequestFilter.doFilter(GitRequestFilter.java:42) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.displaytag.filter.ResponseOverrideFilter.doFilter(ResponseOverrideFilter.java:125) ~[displaytag-patched-1.2.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.owasp.csrfguard.CsrfGuardFilter.handleSession(CsrfGuardFilter.java:107) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:97) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.owasp.csrfguard.CsrfGuardFilter.doFilter(CsrfGuardFilter.java:68) ~[csrfguard-4.2.0.jar:4.2.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.multipart.support.MultipartFilter.doFilterInternal(MultipartFilter.java:125) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:218) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:190) ~[spring-security-web-5.8.9.jar:5.8.9]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.commons.spring.web.CustomDelegatingFilterProxy.doFilter(CustomDelegatingFilterProxy.java:31) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.joget.apps.app.web.ExpireFilter.doFilter(ExpireFilter.java:48) ~[classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.joget.apps.app.web.CustomCharacterEncodingFilter.doFilterInternal(CustomCharacterEncodingFilter.java:50) ~[classes/:?]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.31.jar:5.3.31]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481) ~[catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130) [catalina.jar:9.0.86]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) [catalina.jar:9.0.86]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [catalina.jar:9.0.86]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346) [catalina.jar:9.0.86]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) [tomcat-coyote.jar:9.0.86]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) [tomcat-coyote.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.86]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) [tomcat-util.jar:9.0.86]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: org.apache.jasper.el.JspELException: /WEB-INF/jsp/ubuilder/v5view.jsp(11,4) '${processer.html}' Error reading [html] on type [org.joget.apps.userview.service.UserviewThemeProcesser]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:141) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+Caused by: java.lang.NullPointerException
+	at org.joget.apps.app.service.MobileUtil.isIE(MobileUtil.java:101) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody20(AjaxUniversalTheme.java:204) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib_aroundBody21$advice(AjaxUniversalTheme.java:102) ~[classes/:?]
+	at org.joget.apps.userview.lib.AjaxUniversalTheme.getJsCssLib(AjaxUniversalTheme.java:1) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getJsCssLib(UserviewThemeProcesser.java:573) ~[classes/:?]
+	at org.joget.apps.userview.service.UserviewThemeProcesser.getHtml(UserviewThemeProcesser.java:223) ~[classes/:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor400.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at javax.el.BeanELResolver.getValue(BeanELResolver.java:95) ~[el-api.jar:3.0.FR]
+	at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125) ~[jasper.jar:9.0.86]
+	at org.apache.el.parser.AstValue.getValue(AstValue.java:168) ~[jasper-el.jar:9.0.86]
+	at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189) ~[jasper-el.jar:9.0.86]
+	at org.apache.jasper.el.JspValueExpression.getValue(JspValueExpression.java:129) ~[jasper.jar:9.0.86]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fset_005f0(v5view_jsp.java:257) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspx_meth_c_005fif_005f0(v5view_jsp.java:214) ~[?:?]
+	at org.apache.jsp.WEB_002dINF.jsp.ubuilder.v5view_jsp._jspService(v5view_jsp.java:165) ~[?:?]
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70) ~[jasper.jar:9.0.86]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623) ~[servlet-api.jar:4.0.FR]
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466) ~[jasper.jar:9.0.86]
+	... 74 more
+INFO    22 Nov 2024 09:09:11 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    25 Nov 2024 14:31:15 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    27 Nov 2024 09:53:19 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    28 Nov 2024 11:06:40 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    29 Nov 2024 09:36:53 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    02 Dec 2024 14:04:24 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (180.254.64.254) : true
+INFO    02 Dec 2024 14:04:26 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Dec 2024 09:54:35 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    03 Dec 2024 09:55:27 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (180.244.134.25) : true
+INFO    05 Dec 2024 09:19:11 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 Dec 2024 10:32:22 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Dec 2024 09:03:17 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Dec 2024 09:33:05 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.63) : true
+INFO    11 Dec 2024 09:02:55 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    16 Dec 2024 13:07:39 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.63) : false
+INFO    17 Dec 2024 10:27:13 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    17 Dec 2024 11:49:09 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    18 Dec 2024 10:36:03 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    19 Dec 2024 09:15:42 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    23 Dec 2024 11:17:46 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.43) : true
+INFO    23 Dec 2024 11:17:48 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    24 Dec 2024 17:33:04 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    27 Dec 2024 09:49:49 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    27 Dec 2024 09:52:31 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (114.10.149.218) : false
+INFO    27 Dec 2024 09:55:25 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (114.10.144.218) : true
+INFO    30 Dec 2024 09:24:17 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    31 Dec 2024 12:03:05 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    02 Jan 2025 17:16:54 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 Jan 2025 13:28:46 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 Jan 2025 10:33:16 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    08 Jan 2025 11:26:36 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    09 Jan 2025 17:02:56 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    13 Jan 2025 10:29:35 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    14 Jan 2025 15:38:46 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    20 Jan 2025 12:57:46 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    21 Jan 2025 10:38:34 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    22 Jan 2025 10:48:47 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    23 Jan 2025 11:09:20 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    23 Jan 2025 15:26:37 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (103.109.203.166) : true
+INFO    24 Jan 2025 09:44:05 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    24 Jan 2025 10:17:38 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.109.203.166) : true
+INFO    24 Jan 2025 12:52:40 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (103.109.203.166) : true
+INFO    30 Jan 2025 09:09:06 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    04 Feb 2025 10:27:43 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    04 Feb 2025 10:53:25 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}
+INFO    05 Feb 2025 09:17:00 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    06 Feb 2025 10:14:51 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    07 Feb 2025 09:56:21 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    10 Feb 2025 10:34:10 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    11 Feb 2025 09:38:57 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    13 Feb 2025 09:21:20 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.

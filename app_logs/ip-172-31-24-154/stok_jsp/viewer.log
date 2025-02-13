@@ -1,0 +1,9 @@
+INFO    08 Nov 2024 11:24:16 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _xpdldata_ : [5601 - 5801]
+INFO    08 Nov 2024 11:24:16 PackageEventLogger - UTCTime=1731039856499,EventType=packageLoaded,PackageId=stok_jsp,PackageVersion=1,EventPerformedBy=admin
+INFO    08 Nov 2024 11:24:16 org.joget.apps.app.service.AppServiceImpl - Imported xpdl
+INFO    08 Nov 2024 11:24:18 org.joget.apps.app.service.AppServiceImpl - Imported process form mappings : 24
+INFO    08 Nov 2024 11:24:31 org.joget.apps.app.service.AppServiceImpl - Imported process tool mappings : 72
+INFO    08 Nov 2024 11:24:33 org.joget.apps.app.service.AppServiceImpl - Imported process participant mappings : 22
+INFO    08 Nov 2024 11:24:33 org.joget.apps.app.service.AppServiceImpl - Imported app resources files : 9
+INFO    08 Nov 2024 11:24:33 org.joget.apps.app.service.AppServiceImpl - Imported plugins : 0
+INFO    08 Nov 2024 11:24:33 org.joget.apps.app.service.AppServiceImpl - Imported user groups - validator

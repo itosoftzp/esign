@@ -1,0 +1,33 @@
+INFO    20 Nov 2024 09:24:38 org.displaytag.export.ExportViewFactory - Initializing ExportViewFactory with type={csv,excel,xml,pdf}
+INFO    20 Nov 2024 09:24:38 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    20 Nov 2024 09:30:51 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    20 Nov 2024 09:30:51 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:01:36 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:01:36 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+ERROR   21 Nov 2024 14:24:13 org.hibernate.engine.jdbc.spi.SqlExceptionHelper - Invalid object name 'app_fd_apiCredential'.
+INFO    21 Nov 2024 14:24:36 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:24:36 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:01 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:01 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:28 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:28 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:53 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:51:53 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:52:08 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:52:08 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:52:21 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:52:21 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:52:41 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:52:41 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:53:14 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:53:14 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:58:48 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:58:48 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 14:59:00 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 14:59:00 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 16:16:46 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 16:16:46 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 16:17:55 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 16:17:55 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : false
+INFO    21 Nov 2024 16:18:37 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true
+INFO    21 Nov 2024 16:18:37 org.joget.api.lib.SsoAPI - Authentication for user admin (182.253.194.50) : true

@@ -8,6 +8,6 @@
         <property name="createdByName" type="string"/>
         <property name="modifiedBy" type="string"/>
         <property name="modifiedByName" type="string"/>
-        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_nama" name="nama" not-null="false" type="text"/><property column="c_ttd" name="ttd" not-null="false" type="text"/><property column="c_status" name="status" not-null="false" type="text"/></dynamic-component>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_nama" name="nama" not-null="false" type="text"/><property column="c_ttd" name="ttd" not-null="false" type="text"/><property column="c_field5" name="field5" not-null="false" type="text"/><property column="c_status" name="status" not-null="false" type="text"/></dynamic-component>
     </class>
 </hibernate-mapping>

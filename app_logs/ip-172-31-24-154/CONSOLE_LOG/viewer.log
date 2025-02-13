@@ -1,43 +1,181 @@
-INFO    18 Jul 2024 11:17:39 id.co.itasoft.esign.PDFFileDownloadCustom - DEBUG MODE: getHrefColumn :
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE:  This is key c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: ====== Getting Process Id by Origin Process Id =======
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Process ID: 7403_istwDigitalSign_ds_process
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: detected activity ID: 9834_7403_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: ====== Update Status And Aborting ... =======
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Process ID: 7403_istwDigitalSign_ds_process
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity ID: 9834_7403_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Record ID: c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:15 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity started : 9834_7403_istwDigitalSign_ds_process_set_doc_assignee
-ERROR   18 Jul 2024 11:20:15 Shark - Activity[Process Id=7403_istwDigitalSign_ds_process, Id=11450_7403_istwDigitalSign_ds_process_after_request_tools, ba=null, ActDefId=after_request_tools] - failed to set the activity result
-WARN    18 Jul 2024 11:20:15 org.joget.workflow.model.service.WorkflowManagerImpl - Activity [Process Id=7403_istwDigitalSign_ds_process, Id=11450_7403_istwDigitalSign_ds_process_after_request_tools, ba=null, ActDefId=after_request_tools] - context attribute signed_by does not exist in the activity context - adding new attributes to activity context is not allowed
-INFO    18 Jul 2024 11:20:15 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:15 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:15 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Generate PDF start.
-INFO    18 Jul 2024 11:20:15 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Generate PDF finish.
-INFO    18 Jul 2024 11:20:15 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Sending email from=training@itasoft.co.id, to=poncoe4mac@gmail.com, cc=, bcc=, subject=New Document Need Approval R-000244
-INFO    18 Jul 2024 11:20:16 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:16 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:16 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=7403_istwDigitalSign_ds_process, processDefId=istwDigitalSign#60#ds_process, participantId=ds_process_adjuster, next user=[etta]]
-INFO    18 Jul 2024 11:20:16 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:16 Participant Map fo Adjuster - primaryKey : c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:16 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=7403_istwDigitalSign_ds_process, processDefId=istwDigitalSign#60#ds_process, participantId=ds_process_adjuster, next user=[etta]]
-INFO    18 Jul 2024 11:20:16 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity moved : 9834_7403_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:20:19 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Sending email completed for subject=New Document Need Approval R-000244
-INFO    18 Jul 2024 11:20:33 MyScript - request_id: c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:20:33 MyScript - request_id: c698ef28-0bda-48bd-9cce-f42887a47b7d
-INFO    18 Jul 2024 11:21:10 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user cat (182.253.194.51) : true
-INFO    18 Jul 2024 11:21:27 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=8405_istwDigitalSign_ds_process, processDefId=istwDigitalSign#62#ds_process, participantId=ds_process_requester, next user=[cat]]
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE:  This is key dd427130-6742-4751-980b-93ad22c693a2
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: ====== Getting Process Id by Origin Process Id =======
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Process ID: 8405_istwDigitalSign_ds_process
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: detected activity ID: 11454_8405_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: ====== Update Status And Aborting ... =======
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Process ID: 8405_istwDigitalSign_ds_process
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity ID: 11454_8405_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Record ID: dd427130-6742-4751-980b-93ad22c693a2
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity started : 11454_8405_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:21:39 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Generate PDF start.
-INFO    18 Jul 2024 11:21:39 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Generate PDF finish.
-INFO    18 Jul 2024 11:21:39 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Sending email from=training@itasoft.co.id, to=arief.wardhana@itasoft.co.id, cc=, bcc=, subject=Document Aborted R-000273
-INFO    18 Jul 2024 11:21:39 id.co.itasoft.esign.AbortDocument - DEBUG MODE: Activity moved : 11454_8405_istwDigitalSign_ds_process_set_doc_assignee
-INFO    18 Jul 2024 11:21:43 org.joget.plugin.enterprise.ExportFormEmailTool - ExportFormEmailTool: Sending email completed for subject=Document Aborted R-000273
+INFO    12 Feb 2025 09:02:50 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    12 Feb 2025 09:02:51 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : etta
+INFO    12 Feb 2025 09:02:51 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=satria.putera@itasoft.co.id, cc=, bcc=, subject=Reminder for Approval R-INT-2411-000002
+INFO    12 Feb 2025 09:02:51 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for deadline : [25201 - 25401]
+INFO    12 Feb 2025 09:02:51 Participant Map fo Adjuster - primaryKey : 5ea69a13-5f52-41c9-abdf-f3a78daf57ca
+INFO    12 Feb 2025 09:02:52 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=14201_istwDigitalSign_ds_process, processDefId=istwDigitalSign#78#ds_process, participantId=ds_process_adjuster, next user=[etta]]
+INFO    12 Feb 2025 09:02:52 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _assignment_ : [30601 - 30801]
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - daysLeft: -64
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - ds_status: awaiting
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - do decision: doRemind
+INFO    12 Feb 2025 09:02:52 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    12 Feb 2025 09:02:52 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : null
+INFO    12 Feb 2025 09:02:52 id.co.itasoft.istw.EmailReminderRecipients - debug : approveby_receiver : julia
+INFO    12 Feb 2025 09:02:52 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=luckytrue4dev@gmail.com, cc=, bcc=, subject=Reminder for Approval R-INT-2412-000007
+INFO    12 Feb 2025 09:02:52 Participant Map fo Adjuster - primaryKey : 7d58dd9c-edc2-44dc-8bd3-dd2bc0b9fbd9
+INFO    12 Feb 2025 09:02:52 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=16201_istwDigitalSign_ds_process, processDefId=istwDigitalSign#92#ds_process, participantId=ds_process_adjuster, next user=[cat]]
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - daysLeft: -64
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - ds_status: awaiting
+INFO    12 Feb 2025 09:02:52 Beanshell Decision - do decision: doRemind
+INFO    12 Feb 2025 09:02:52 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    12 Feb 2025 09:02:52 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : etta
+INFO    12 Feb 2025 09:02:52 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=satria.putera@itasoft.co.id, cc=, bcc=, subject=Reminder for Approval R-INT-2412-000008
+INFO    12 Feb 2025 09:02:52 Participant Map fo Adjuster - primaryKey : 3a1a0a6d-24c9-4fd7-a6d4-8b721890042f
+INFO    12 Feb 2025 09:02:52 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=16202_istwDigitalSign_ds_process, processDefId=istwDigitalSign#92#ds_process, participantId=ds_process_adjuster, next user=[etta]]
+INFO    12 Feb 2025 09:02:55 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2412-000007
+INFO    12 Feb 2025 09:02:55 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2411-000002
+INFO    12 Feb 2025 09:02:56 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2412-000008
+INFO    12 Feb 2025 10:07:27 org.joget.apps.app.service.AppDevUtil - Git feature is disabled.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001, G-000009
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User is not in FOUR groups.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User is not in THREE groups.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User does not meet the required group conditions.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User not found in group.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001, G-000009
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User is not in FOUR groups.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User is not in THREE groups.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User does not meet the required group conditions.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - User not found in group.
+INFO    12 Feb 2025 16:05:09 Beanshell UI/Userview Permission - Script result: false
+ERROR   12 Feb 2025 18:00:52 org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Server did not return a response. The connection has been closed.
+ERROR   12 Feb 2025 18:00:52 org.joget.workflow.shark.DeadlineChecker - javax.persistence.PersistenceException: org.hibernate.exception.JDBCConnectionException: could not extract ResultSet
+javax.persistence.PersistenceException: org.hibernate.exception.JDBCConnectionException: could not extract ResultSet
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1626) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.joget.workflow.shark.model.dao.DeadlineDao.getProcessIdsWithDeadlines(DeadlineDao.java:69) ~[wflow-wfengine-8.1.8.jar:?]
+	at org.joget.workflow.shark.model.dao.DeadlineDao$$FastClassBySpringCGLIB$$aabaab08.invoke(<generated>) ~[wflow-wfengine-8.1.8.jar:?]
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218) ~[spring-core-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:792) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:762) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123) ~[spring-tx-5.3.39.jar:5.3.39]
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388) ~[spring-tx-5.3.39.jar:5.3.39]
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119) ~[spring-tx-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:762) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:762) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:707) ~[spring-aop-5.3.39.jar:5.3.39]
+	at org.joget.workflow.shark.model.dao.DeadlineDao$$EnhancerBySpringCGLIB$$f53aeb33.getProcessIdsWithDeadlines(<generated>) ~[wflow-wfengine-8.1.8.jar:?]
+	at org.joget.workflow.shark.DeadlineChecker.runMe(DeadlineChecker.java:190) [wflow-wfengine-8.1.8.jar:?]
+	at org.joget.workflow.shark.DeadlineChecker.run(DeadlineChecker.java:143) [wflow-wfengine-8.1.8.jar:?]
+Caused by: org.hibernate.exception.JDBCConnectionException: could not extract ResultSet
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:112) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:37) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:67) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2322) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2075) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2037) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:956) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:357) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2868) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2850) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2682) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2677) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:540) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:218) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1459) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1649) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1617) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	... 18 more
+Caused by: com.microsoft.sqlserver.jdbc.SQLServerException: SQL Server did not return a response. The connection has been closed.
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:3422) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:3411) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.TDSReader.readPacket(IOBuffer.java:6623) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.TDSCommand.startResponse(IOBuffer.java:7802) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:613) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:537) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7417) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:3488) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand_aroundBody2(SQLServerStatement.java:262) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand_aroundBody3$advice(SQLServerStatement.java:130) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:1) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement_aroundBody0(SQLServerStatement.java:237) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement_aroundBody1$advice(SQLServerStatement.java:130) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:1) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery_aroundBody0(SQLServerPreparedStatement.java:456) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery_aroundBody1$advice(SQLServerPreparedStatement.java:130) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:1) ~[mssql-jdbc-9.4.0.jre8.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor129.invoke(Unknown Source) ~[?:?]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:123) ~[tomcat-jdbc-9.0.97.jar:?]
+	at com.sun.proxy.$Proxy99.executeQuery_aroundBody26(Unknown Source) ~[?:?]
+	at com.sun.proxy.$Proxy99.executeQuery_aroundBody27$advice(Unknown Source) ~[?:?]
+	at com.sun.proxy.$Proxy99.executeQuery(Unknown Source) ~[?:?]
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.extract(ResultSetReturnImpl.java:57) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.getResultSet(Loader.java:2322) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2075) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.executeQueryStatement(Loader.java:2037) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:956) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:357) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2868) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2850) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2682) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2677) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:540) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:400) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:218) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1459) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1649) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1617) ~[hibernate-core-5.6.15.Final.jar:5.6.15.Final]
+	... 18 more
+INFO    13 Feb 2025 09:02:58 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activity_ : [35201 - 35401]
+INFO    13 Feb 2025 09:02:58 org.enhydra.shark.SharkUtilitiesAspect - Cache object id range : [1078400 - 1078600]
+INFO    13 Feb 2025 09:02:58 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _activitydata_ : [62601 - 62801]
+INFO    13 Feb 2025 09:02:59 Beanshell Decision - daysLeft: -98
+INFO    13 Feb 2025 09:02:59 Beanshell Decision - ds_status: awaiting
+INFO    13 Feb 2025 09:02:59 Beanshell Decision - do decision: doRemind
+INFO    13 Feb 2025 09:02:59 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    13 Feb 2025 09:02:59 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : etta
+INFO    13 Feb 2025 09:02:59 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=satria.putera@itasoft.co.id, cc=, bcc=, subject=Reminder for Approval R-INT-2411-000002
+INFO    13 Feb 2025 09:03:00 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for deadline : [25401 - 25601]
+INFO    13 Feb 2025 09:03:00 Participant Map fo Adjuster - primaryKey : 5ea69a13-5f52-41c9-abdf-f3a78daf57ca
+INFO    13 Feb 2025 09:03:00 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=14201_istwDigitalSign_ds_process, processDefId=istwDigitalSign#78#ds_process, participantId=ds_process_adjuster, next user=[etta]]
+INFO    13 Feb 2025 09:03:00 org.enhydra.shark.SharkUtilitiesAspect - Cache counter range for _assignment_ : [30801 - 31001]
+INFO    13 Feb 2025 09:03:00 Beanshell Decision - daysLeft: -65
+INFO    13 Feb 2025 09:03:00 Beanshell Decision - ds_status: awaiting
+INFO    13 Feb 2025 09:03:00 Beanshell Decision - do decision: doRemind
+INFO    13 Feb 2025 09:03:00 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    13 Feb 2025 09:03:00 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : null
+INFO    13 Feb 2025 09:03:00 id.co.itasoft.istw.EmailReminderRecipients - debug : approveby_receiver : julia
+INFO    13 Feb 2025 09:03:00 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=luckytrue4dev@gmail.com, cc=, bcc=, subject=Reminder for Approval R-INT-2412-000007
+INFO    13 Feb 2025 09:03:00 Participant Map fo Adjuster - primaryKey : 7d58dd9c-edc2-44dc-8bd3-dd2bc0b9fbd9
+INFO    13 Feb 2025 09:03:00 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=16201_istwDigitalSign_ds_process, processDefId=istwDigitalSign#92#ds_process, participantId=ds_process_adjuster, next user=[cat]]
+INFO    13 Feb 2025 09:03:01 Beanshell Decision - daysLeft: -65
+INFO    13 Feb 2025 09:03:01 Beanshell Decision - ds_status: awaiting
+INFO    13 Feb 2025 09:03:01 Beanshell Decision - do decision: doRemind
+INFO    13 Feb 2025 09:03:01 id.co.itasoft.istw.EmailReminderRecipients - debug : c_type_request : internal
+INFO    13 Feb 2025 09:03:01 id.co.itasoft.istw.EmailReminderRecipients - debug : adjustby_receiver : etta
+INFO    13 Feb 2025 09:03:01 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email from=training@itasoft.co.id, to=satria.putera@itasoft.co.id, cc=, bcc=, subject=Reminder for Approval R-INT-2412-000008
+INFO    13 Feb 2025 09:03:01 Participant Map fo Adjuster - primaryKey : 3a1a0a6d-24c9-4fd7-a6d4-8b721890042f
+INFO    13 Feb 2025 09:03:01 org.joget.workflow.shark.WorkflowAssignmentManager - [processId=16202_istwDigitalSign_ds_process, processDefId=istwDigitalSign#92#ds_process, participantId=ds_process_adjuster, next user=[etta]]
+INFO    13 Feb 2025 09:03:03 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2411-000002
+INFO    13 Feb 2025 09:03:03 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2412-000007
+INFO    13 Feb 2025 09:03:04 org.joget.apps.app.lib.EmailTool - EmailTool: Sending email completed for subject=Reminder for Approval R-INT-2412-000008
+INFO    13 Feb 2025 09:21:18 org.joget.apps.app.service.AppDevUtil - Git feature is disabled.
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001, G-000009
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - User is not in FOUR groups.
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Script result: false
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Checking if user ID:  is in all three group IDs: G-000002, G-000003, G-000001
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - User is not in THREE groups.
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Script result: false
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - User does not meet the required group conditions.
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Script result: false
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - User not found in group.
+INFO    13 Feb 2025 09:21:19 Beanshell UI/Userview Permission - Script result: false
+INFO    13 Feb 2025 09:21:20 org.displaytag.properties.TableProperties - LocaleResolver initialized to org.joget.apps.app.web.LocalLocaleResolver.
+INFO    13 Feb 2025 09:21:25 org.joget.apps.workflow.security.WorkflowAuthenticationProvider - Authentication for user admin (182.253.194.50) : true

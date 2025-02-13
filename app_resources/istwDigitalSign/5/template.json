@@ -1,0 +1,8 @@
+{
+    "tables": ["application"],
+    "ids": ["application"],
+    "labels": [
+        "Application",
+        "Application Name"
+    ]
+}

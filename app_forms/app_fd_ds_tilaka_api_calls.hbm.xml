@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class entity-name="app_fd_ds_tilaka_api_calls" lazy="false" name="org.joget.apps.form.model.FormRow" table="app_fd_ds_tilaka_api_calls">
+        <id name="id" type="string"/>
+        <property index="idx_datecreated" name="dateCreated" type="timestamp"/>
+        <property name="dateModified" type="timestamp"/>
+        <property index="idx_createdby" name="createdBy" type="string"/>
+        <property name="createdByName" type="string"/>
+        <property name="modifiedBy" type="string"/>
+        <property name="modifiedByName" type="string"/>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_last_response_code" name="last_response_code" not-null="false" type="text"/><property column="c_filename" name="filename" not-null="false" type="text"/><property column="c_presigned_url" name="presigned_url" not-null="false" type="text"/><property column="c_last_action" name="last_action" not-null="false" type="text"/><property column="c_last_response_data" name="last_response_data" not-null="false" type="text"/><property column="c_last_action_status" name="last_action_status" not-null="false" type="text"/><property column="c_final_tilaka_doc" name="final_tilaka_doc" not-null="false" type="text"/></dynamic-component>
+    </class>
+</hibernate-mapping>

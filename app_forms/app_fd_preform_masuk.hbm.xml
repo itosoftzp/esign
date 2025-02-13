@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class entity-name="app_fd_preform_masuk" lazy="false" name="org.joget.apps.form.model.FormRow" table="app_fd_preform_masuk">
+        <id name="id" type="string"/>
+        <property index="idx_datecreated" name="dateCreated" type="timestamp"/>
+        <property name="dateModified" type="timestamp"/>
+        <property index="idx_createdby" name="createdBy" type="string"/>
+        <property name="createdByName" type="string"/>
+        <property name="modifiedBy" type="string"/>
+        <property name="modifiedByName" type="string"/>
+        <dynamic-component insert="true" name="customProperties" optimistic-lock="true" unique="false" update="true"><property column="c_uploadMasuk" name="uploadMasuk" not-null="false" type="text"/><property column="c_jumlah_bal" name="jumlah_bal" not-null="false" type="text"/><property column="c_catatan_request_barang_masuk" name="catatan_request_barang_masuk" not-null="false" type="text"/><property column="c_tanggal_masuk" name="tanggal_masuk" not-null="false" type="text"/><property column="c_nama_preform" name="nama_preform" not-null="false" type="text"/><property column="c_catatan_approve_preform_masuk" name="catatan_approve_preform_masuk" not-null="false" type="text"/><property column="c_jumlah_bal_aktual" name="jumlah_bal_aktual" not-null="false" type="text"/><property column="c_approveAktual" name="approveAktual" not-null="false" type="text"/><property column="c_jumlah_barang" name="jumlah_barang" not-null="false" type="text"/><property column="c_jumlah_preform_aktual" name="jumlah_preform_aktual" not-null="false" type="text"/><property column="c_catatan_barang_masuk" name="catatan_barang_masuk" not-null="false" type="text"/><property column="c_tanggal_masuk_aktual" name="tanggal_masuk_aktual" not-null="false" type="text"/><property column="c_id_preform_masuk" name="id_preform_masuk" not-null="false" type="text"/></dynamic-component>
+    </class>
+</hibernate-mapping>
